@@ -1,0 +1,5 @@
+{
+  "name": "Venkys Grammar Quiz",
+  "description": "An interactive, text-based English grammar quiz powered by Gemini. Users receive questions and get immediate feedback on their answers.",
+  "requestFramePermissions": []
+}

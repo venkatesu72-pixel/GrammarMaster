@@ -1,0 +1,49 @@
+
+{
+  "id": "com.venkys.grammar.quiz",
+  "short_name": "GrammarQuiz",
+  "name": "Venkys Gemini Grammar Quiz",
+  "description": "An interactive, AI-powered English grammar quiz for students and learners.",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/xTXJ57Zt/venkatesu-removebg-preview.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.postimg.cc/xTXJ57Zt/venkatesu-removebg-preview.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://i.postimg.cc/xTXJ57Zt/venkatesu-removebg-preview.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://i.postimg.cc/xTXJ57Zt/venkatesu-removebg-preview.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "form_factor": "narrow",
+      "label": "Welcome Screen"
+    },
+    {
+      "src": "https://i.postimg.cc/xTXJ57Zt/venkatesu-removebg-preview.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "form_factor": "wide",
+      "label": "Welcome Screen Desktop"
+    }
+  ],
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "orientation": "portrait"
+}
